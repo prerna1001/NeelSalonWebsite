@@ -1,0 +1,27 @@
+﻿body
+{
+	 background-image: url('back.gif');
+    background-size: cover;
+ 
+
+}
+
+h1{
+
+
+color:white;
+
+}
+
+.first a {
+					
+				color: white;
+				text-decoration: none;
+				}
+.first a:hover {
+				
+				
+			    text-decoration: underline;
+				}
+
+				
